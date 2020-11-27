@@ -9,11 +9,6 @@ source env/bin/activate
 pip3 install -r requirements.txt
 ```
 
-## Run
-``` 
-jupyter notebook
-```
-
 ## Exit virtualenv
 ``` 
 deactivate
