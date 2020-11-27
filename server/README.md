@@ -9,6 +9,9 @@ source env/bin/activate
 pip3 install -r requirements.txt
 ```
 
+## Run the server
+`uvicorn main:app --reload`
+
 ## Exit virtualenv
 ``` 
 deactivate
