@@ -1,3 +1,8 @@
+The main feature of this server is to overcome the candle limits 
+of the exchanges. TradingView might request more than 1000 candles
+in it's datafeed `getBars()` method that calls this endpoint 
+but Binance limits it's response to 1000 candles. 
+`test_main.py` contains tests to cover that case.
 
 ## Requirements
 Python 3
