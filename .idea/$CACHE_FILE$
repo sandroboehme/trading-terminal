@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/projekte/lidl/repos/CSS/return-form" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/OPM/business_partner_s4" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/OPM/order_processor_s4" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/customer-service/cc" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/customer-service/csa" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/customer-service/csa_schema_mapper_s4" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/customer-service/ig_commons_ui" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/customer-service/inspector-gadget" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/devops/varnish-sk" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/master-templates/shopsys-commons-core" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/master-templates/shopsys-generator" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/master-templates/shopsys-generator/output" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/returnlayer" value="PREVIEW" />
+        <entry key="$USER_HOME$/projekte/lidl/repos/stocklayer/service" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+</project>
