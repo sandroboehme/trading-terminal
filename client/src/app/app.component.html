@@ -1,4 +1,10 @@
-<h1>Custom TradingView Chart</h1>
+<a href="/"><h1>Trading Terminal</h1></a>
+<nav>
+  <ul>
+    <li><a routerLink="/chart" routerLinkActive="active">Chart</a></li>
+    <li><a routerLink="/order-book" routerLinkActive="active">Order Book</a></li>
+  </ul>
+</nav>
 <div>
-  <app-tv-chart-container></app-tv-chart-container>
+  <router-outlet></router-outlet>
 </div>

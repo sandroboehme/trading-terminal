@@ -10,7 +10,7 @@ import { Datafeed } from './datafeed';
 import { ServerService } from './server.service';
 
 @Component({
-    selector: 'app-tv-chart-container',
+    selector: 'tt-tv-chart-container',
     templateUrl: './tv-chart-container.component.html',
     styleUrls: ['./tv-chart-container.component.css']
 })
